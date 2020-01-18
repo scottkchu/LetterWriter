@@ -1,0 +1,12 @@
+Dear Recruiter, 
+
+I am submitting my candidature for a JOB POSITION at Google. My passion is to work with extremely talented people and collaborate to make products that would make an immediate impact. I enjoy hacking things up for any immediate problems or projects I want to pursue. For example, I created a Rubik’s cube timer web application that keeps track of consecutive solves under a certain time. This web application was created to make practicing the Rubik’s cube more fun and meaningful. Applying to Google would expand my ability to translate real problems into viable solutions.
+
+Most of my personal projects come from a problem I want to solve, and it is by solving that problem that I grow and develop my coding abilities. I always break down the problem into smaller pieces and work my way up using and learning the necessary tools to complete it. For example, by working on my Rubik’s cube timer, I have learned the foundations of front-end web development such as programming in JavaScript and DOM manipulation. I have excellent work ethics and I enjoy solving difficult challenges and learning from them. Developing practical programs for people to use is something I am passionate about, which reflects my decision for applying to Google.
+
+I truly hope to make a solid contribution to the transit systems team at Google, and I look forward to speaking with you in person. 
+
+
+Sincerely, 
+
+Scott

@@ -12,7 +12,7 @@ def info(job_info, company, title):
         counter += 1
 
 
-def main():
+def indeed():
 #Job search website
     job_name = "programming"
     site = None
@@ -28,7 +28,11 @@ def main():
     info(job_info, company, title)
     print(job_info)
     return job_info
-main()
+
+if __name__ == '__main__':
+    # test1.py executed as script
+    # do something
+    indeed()
 
 
 

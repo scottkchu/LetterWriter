@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import requests
 
 
-def main1():
+def linkedin():
     html_doc = "https://www.linkedin.com/jobs/search/?keywords=software%20engineer"
     page = requests.get(html_doc)
     soup = BeautifulSoup(page.content, "html.parser")
@@ -26,13 +26,10 @@ def main1():
     for x in range(len(companies)):
         info.append([company_list[x], position_list[x]])
 
+    print(info)
     return(info)
 
-
-if __name__ == "__main__":
-    main1()
-# for inc in range(len(companies)):
-#     combined = [companies[inc], positions[inc]]
-#     info.append(combined)
-
-# print(info)
+if __name__ == '__main__':
+    # test1.py executed as script
+    # do something
+    linkedin()

@@ -1,5 +1,4 @@
 # LetterWriter
-
 ## Inspiration
 Finding your first SWE/CS internship can be hard. Most students apply to hundreds of positions before they land their first internship. To speed up the application process LetterWriter helps generate new cover letters for every position you're applying to!
 

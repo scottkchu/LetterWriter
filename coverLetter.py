@@ -1,9 +1,9 @@
-import email_scraper
+import indeed_scraper
 import linkedin_scraper
 
 if __name__ == '__main__':
     jobs1 = linkedin_scraper.linkedin()
-    jobs2 = email_scraper.indeed()
+    jobs2 = indeed_scraper.indeed()
 
     all_jobs = jobs1+jobs2
 
